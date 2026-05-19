@@ -5,7 +5,6 @@ const kanan = 72;
 
 // operasi
 const hasilTambah = tambah(kiri, kanan);
-const hasilKurang = kurang(kiri, kanan);
 //TODO here ...
 
 describe("Fungsi Matematika", () => {
